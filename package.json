@@ -1,0 +1,21 @@
+{
+  "name": "jquerymobile-phonegap-template",
+  "version": "1.0.0",
+  "description": "template for phonegap and cordova projects using JQuery Mobile and FastClick",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rafaelzmt/jquerymobile-phonegap-template"
+  },
+  "keywords": [
+    "ecosystem:phonegap",
+    "ecosystem:cordova",
+    "cordova:template",
+    "phonegap:template"
+  ],
+  "author": "Rafael E. de Oliveira",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/rafaelzmt/jquerymobile-phonegap-template/issues"
+  },
+  "homepage": "https://github.com/rafaelzmt/jquerymobile-phonegap-template#readme"
+}
